@@ -196,3 +196,8 @@ cython_debug/
 # ChromaDB
 chroma*/
 
+#Data for training
+cifar10
+cifar100
+data
+u-net/data
